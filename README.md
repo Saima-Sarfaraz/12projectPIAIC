@@ -14,4 +14,7 @@ https://github.com/Saima-Sarfaraz/project_3-To_do
 #Currency_Converter_5
 https://github.com/Saima-Sarfaraz/Project_04-Currency_Converter
 
+#Word-Counter_6
+https://github.com/Saima-Sarfaraz/Project_05-Word-Counter
+
 
