@@ -17,4 +17,7 @@ https://github.com/Saima-Sarfaraz/Project_04-Currency_Converter
 #Word-Counter_6
 https://github.com/Saima-Sarfaraz/Project_05-Word-Counter
 
+#Student-Management-System_7
+https://github.com/Saima-Sarfaraz/Project_06-Student-Management-System
+
 
